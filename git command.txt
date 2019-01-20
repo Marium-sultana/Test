@@ -3,8 +3,9 @@
 3.git remote show origin
 4.git remote remove origin
 5.git clone https://github.com/Marium-sultana/Test.git
-6.git add .
-7.git commit -m "File Uplaod"
-8.git pull origin master
-9.git push origin master
+6.git status
+7.git add .
+8.git commit -m "File Uplaod"
+9.git pull origin master
+10.git push origin master
 
